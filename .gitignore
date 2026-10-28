@@ -1,0 +1,4 @@
+test_filters
+*.gcda
+*.gcno
+*.gcov
